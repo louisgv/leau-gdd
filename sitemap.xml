@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/concept/base/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/concept/target-audience/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/technical/development/abstract/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/technical/development/derived/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/graphics/base/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/graphics/player/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/graphics/particleEffect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/gameplay/base/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/gameplay/objectives/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/gameplay/challenges/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/gameplay/controls/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/gameplay/rewards/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/technical/base/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/technical/ai/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/technical/controls/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/technical/upgrades/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/technical/hud/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/technical/scenes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/sounds/base/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/world/universe/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/world/tropical-tripes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/world/parody/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/management/cost-and-time/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gdd.lnp.moe/leau/xyz/</loc>
+  </url>
+  
+</urlset>

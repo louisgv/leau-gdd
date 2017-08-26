@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>World-rsses on l&#39;eau&#39;s gdd</title>
+    <link>http://gdd.lnp.moe/leau/world/index.xml</link>
+    <description>Recent content in World-rsses on l&#39;eau&#39;s gdd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://gdd.lnp.moe/leau/world/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The universe</title>
+      <link>http://gdd.lnp.moe/leau/world/universe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/world/universe/</guid>
+      <description>
+
+&lt;h1 id=&#34;world-design&#34;&gt;World Design&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;These creatures adopt a diversity of fictional culture and clothing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A world where personified creatures live in a &lt;strong&gt;desert-like, dry environments&lt;/strong&gt;. This makes water source very far away from where they live. On the other hand, water remains crucial to life in this world. Its rareness made it a &lt;code&gt;currency&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;landmark&lt;/code&gt;, &lt;code&gt;world&lt;/code&gt;, &lt;code&gt;universe&lt;/code&gt;, &lt;code&gt;level&lt;/code&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/HUD/crapMap.png&#34; alt=&#34;Crappy Map&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A crappy map is derived just to inspire how this world might look like. It is more of an island-ish map. Some consideration and inspiration must be drawn from some survival game where their map looks very interesting. (And it seems to be procedurally generated too&amp;hellip;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tropical</title>
+      <link>http://gdd.lnp.moe/leau/world/tropical-tripes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/world/tropical-tripes/</guid>
+      <description>
+
+&lt;h2 id=&#34;tropical&#34;&gt;Tropical&lt;/h2&gt;
+
+&lt;p&gt;The people of this tropical tripe secure their border such that no creature in the desert are allowed to enter their sanctuary.&lt;/p&gt;
+
+&lt;p&gt;They entered an endless age of tropical beautifulness.&lt;/p&gt;
+
+&lt;p&gt;The player experience enlightenment, greenish feeling in this chapter. The world is green with water bubbling around. The creatures here have reason for why they afraid outsider would come over.&lt;/p&gt;
+
+&lt;p&gt;The wall was created&lt;/p&gt;
+
+&lt;p&gt;Party
+Dance&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parody Elements</title>
+      <link>http://gdd.lnp.moe/leau/world/parody/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/world/parody/</guid>
+      <description>
+
+&lt;h1 id=&#34;parody-elements&#34;&gt;Parody Elements&lt;/h1&gt;
+
+&lt;p&gt;We want to parody several real-life events and social elements. Including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Trump wall and the 1%&lt;/li&gt;
+&lt;li&gt;Tinder swiping and social media usage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The parody should be artful, hidden-in-plain-sight kind of thing, or implemented straight in the way this world works.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

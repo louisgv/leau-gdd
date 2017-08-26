@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphics-rsses on l&#39;eau&#39;s gdd</title>
+    <link>http://gdd.lnp.moe/leau/graphics/index.xml</link>
+    <description>Recent content in Graphics-rsses on l&#39;eau&#39;s gdd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://gdd.lnp.moe/leau/graphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Concept</title>
+      <link>http://gdd.lnp.moe/leau/graphics/base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/graphics/base/</guid>
+      <description>
+
+&lt;h1 id=&#34;graphics&#34;&gt;Graphics&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Player</title>
+      <link>http://gdd.lnp.moe/leau/graphics/player/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/graphics/player/</guid>
+      <description>
+
+&lt;h2 id=&#34;player&#34;&gt;Player&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/player/ghostDraftCatMonkDummy.png&#34; alt=&#34;Ghost Draft&#34; /&gt;
+These designs were inspired by an anime from Japan Anime Expo (Obake-chan), literally means ghost girl.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The main character can be described a sand dweller. To make it low-poly, this character must be simple in design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/player/ghostWithWaterBowl.png&#34; height=&#34;200px&#34;/&gt;
+&lt;img src=&#34;images/player/ghostWithWaterPan.png&#34; height=&#34;200px&#34;&gt;&lt;/p&gt;
+
+&lt;!-- ![Ghost With Water Bowl](images/player/ghostWithWaterBowl.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Particle Effect</title>
+      <link>http://gdd.lnp.moe/leau/graphics/particleEffect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/graphics/particleEffect/</guid>
+      <description>
+
+&lt;h2 id=&#34;particle-effect&#34;&gt;Particle Effect&lt;/h2&gt;
+
+&lt;p&gt;It is highly desired that the game can uttilize particle effect in an artful way, such that it shows the beauty night sky as well as the glowing life form on earth, for the gameplay is designed to happens mainly in the dark, and the morning event is mostly for minor conversation and quest taking!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/textures/bubbleMagicTexture.png&#34; alt=&#34;Bubble Particle Effect&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One particular interesting particle effect is the bubbling of the water. For example, let&amp;rsquo;s say our ghost eventually acquired some magical power that allows her to control water bubble, and even travel, fly in it. That might be a very fun experience won&amp;rsquo;t it?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

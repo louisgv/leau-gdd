@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management-rsses on l&#39;eau&#39;s gdd</title>
+    <link>http://gdd.lnp.moe/leau/management/index.xml</link>
+    <description>Recent content in Management-rsses on l&#39;eau&#39;s gdd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://gdd.lnp.moe/leau/management/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Concept and Time</title>
+      <link>http://gdd.lnp.moe/leau/management/cost-and-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/management/cost-and-time/</guid>
+      <description>
+
+&lt;h1 id=&#34;cost-and-time&#34;&gt;Cost and time&lt;/h1&gt;
+
+&lt;p&gt;Develop between technical and design will happens simultaneously. Each team can merge between milestone if the team or project exist.&lt;/p&gt;
+
+&lt;p&gt;Except technical milestone, all design-related milestones are listed based on their priority and should not be done one after another. They should be think of simultaneously such that each and every element blend with each other well.&lt;/p&gt;
+
+&lt;p&gt;The cost shall be calculated by multiplying the ETA with an hourly rate of $50 per hour.&lt;/p&gt;
+
+&lt;h2 id=&#34;technical-milestones&#34;&gt;Technical Milestones&lt;/h2&gt;
+
+&lt;p&gt;Each of these technical milestone were designed such that they can be created as modularized hackathon projects. This allow for rapid development and constrained technical effort.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;No.&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;ETA&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;18 hours&lt;/td&gt;
+&lt;td&gt;Player explore a desert-like world, filled with stars, at night. The player avatar shines to lead the way.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;36 hours&lt;/td&gt;
+&lt;td&gt;Player stumble upon the first village, with 3 NPCs that can initiate a 2-lines comic conversation. The constellation in the sky guide the player toward the village.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;72 hours&lt;/td&gt;
+&lt;td&gt;A water economy, a quest system. Player travel toward a water landmark, get some water, and bring it back to the NPC.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;144 hours&lt;/td&gt;
+&lt;td&gt;Complete internal RPG point system, a relational graph, and random mechanic.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;graphic-milestones&#34;&gt;Graphic Milestones&lt;/h2&gt;
+
+&lt;p&gt;For the flexibility of human imagination and the way we seek knowledge around us, design milestone are no way &amp;ldquo;definite.&amp;rdquo; This milestone serves just to remind the designer how much out there to work on, and that each of the design can stop at the most basic if it&amp;rsquo;s stressing the designer, for from basic, man surely will think of it unconsciously. Prepared mind stumbled upon unconscious thought has the highest chance of producing innovation. I openly seek such dedication from my designer.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;No.&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;ETA&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;Characters, Culture, Clothing&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;Color Palette, Landmark, World&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;NPCs, Objects, Items&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;Sceneries&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;HUD, Constellation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;graphic-implementation-milestones&#34;&gt;Graphic Implementation Milestones&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;No.&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;ETA&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;180 hours&lt;/td&gt;
+&lt;td&gt;Main Character&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;180 hours&lt;/td&gt;
+&lt;td&gt;First Dessert Environment&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;180 hours&lt;/td&gt;
+&lt;td&gt;First Object and Item&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;90 hours&lt;/td&gt;
+&lt;td&gt;HUD, Constellation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;game-design-milestones&#34;&gt;Game Design Milestones&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;No.&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;ETA&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;Gameplay, Economy, Emotion Flow&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;Character development&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;Story, NPC relationships&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;Level Design, Landmark origins&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;45 hours&lt;/td&gt;
+&lt;td&gt;Constellation Origins, Trivias&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

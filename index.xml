@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>l&#39;eau&#39;s gdd</title>
+    <link>http://gdd.lnp.moe/leau/index.xml</link>
+    <description>Recent content on l&#39;eau&#39;s gdd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://gdd.lnp.moe/leau/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Concept</title>
+      <link>http://gdd.lnp.moe/leau/concept/base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/concept/base/</guid>
+      <description>
+
+&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/concepts/keysword0.png&#34; alt=&#34;Keywords Note 0&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are more than 1.2 billion people lacking access to clean drinking water in the world, but only a handful of organization and billionaire are looking to solve this problem. In order to inspire a solution to such a geographic-specific problem, there need a culture movement, and it must be artful first.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;L&amp;rsquo;eau&lt;/strong&gt; is an adventure game that tells the origin story of a &lt;em&gt;water deity&lt;/em&gt; set in a fictional world where water is so rare, it is both a currency and a major spiritual concept.&lt;/p&gt;
+
+&lt;p&gt;By showing how the creature in this world can appreciate water capitally as well as spiritually, the game hope to inspire such level of appreciation within the player, especially the youth. For man must appreciate the simplest thing in life before he can cherish life to its fullest.&lt;/p&gt;
+
+&lt;aside class=&#34;admonition note&#34;&gt;
+  &lt;p class=&#34;admonition-title&#34;&gt;Motivation&lt;/p&gt;
+  &lt;p&gt;Showing appreciation toward water, something often taken for granted in first-world countries. Hopefully the game will inspire further philanthropic action toward solving the global clean water crisis.&lt;/p&gt;
+&lt;/aside&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Concept</title>
+      <link>http://gdd.lnp.moe/leau/concept/target-audience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/concept/target-audience/</guid>
+      <description>
+
+&lt;h2 id=&#34;target-audience&#34;&gt;Target Audience&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Journey is an indie video game developed by thatgamecompany and published by Sony Coputer Entertainment for the PlayStation 3. In Journey, the player controls a robed figure in a vast desert, traveling towards a mountain in the distance. Other players on the same journey can be discovered, and two players can meet and assist each other, but they cannot communicate via speech or text and cannot see each other&amp;rsquo;s names. It is listed as one of the greatest games of all time.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Those who enjoy &lt;em&gt;Journey&lt;/em&gt; will find this game somewhat familiar. However, &lt;em&gt;L&amp;rsquo;eau&lt;/em&gt; push the boundary of artful game further by introducing a more diverse range of culture as well as habitat. &lt;em&gt;L&amp;rsquo;eau&lt;/em&gt; is more about &lt;em&gt;exploration&lt;/em&gt;, building &lt;em&gt;relationship&lt;/em&gt;, learning about the &lt;em&gt;economy&lt;/em&gt; and enjoying the flow state rather than going toward an end goal.&lt;/p&gt;
+
+&lt;aside class=&#34;admonition note&#34;&gt;
+  &lt;p class=&#34;admonition-title&#34;&gt;L&amp;#39;eau&lt;/p&gt;
+  &lt;p&gt;is a thoughtful artistic game that seeks to inspire player emotionally and intellectually.&lt;/p&gt;
+&lt;/aside&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Abstract/Base classes</title>
+      <link>http://gdd.lnp.moe/leau/technical/development/abstract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/development/abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derived Classes</title>
+      <link>http://gdd.lnp.moe/leau/technical/development/derived/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/development/derived/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concept</title>
+      <link>http://gdd.lnp.moe/leau/graphics/base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/graphics/base/</guid>
+      <description>
+
+&lt;h1 id=&#34;graphics&#34;&gt;Graphics&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Player</title>
+      <link>http://gdd.lnp.moe/leau/graphics/player/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/graphics/player/</guid>
+      <description>
+
+&lt;h2 id=&#34;player&#34;&gt;Player&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/player/ghostDraftCatMonkDummy.png&#34; alt=&#34;Ghost Draft&#34; /&gt;
+These designs were inspired by an anime from Japan Anime Expo (Obake-chan), literally means ghost girl.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The main character can be described a sand dweller. To make it low-poly, this character must be simple in design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/player/ghostWithWaterBowl.png&#34; height=&#34;200px&#34;/&gt;
+&lt;img src=&#34;images/player/ghostWithWaterPan.png&#34; height=&#34;200px&#34;&gt;&lt;/p&gt;
+
+&lt;!-- ![Ghost With Water Bowl](images/player/ghostWithWaterBowl.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Particle Effect</title>
+      <link>http://gdd.lnp.moe/leau/graphics/particleEffect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/graphics/particleEffect/</guid>
+      <description>
+
+&lt;h2 id=&#34;particle-effect&#34;&gt;Particle Effect&lt;/h2&gt;
+
+&lt;p&gt;It is highly desired that the game can uttilize particle effect in an artful way, such that it shows the beauty night sky as well as the glowing life form on earth, for the gameplay is designed to happens mainly in the dark, and the morning event is mostly for minor conversation and quest taking!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/textures/bubbleMagicTexture.png&#34; alt=&#34;Bubble Particle Effect&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One particular interesting particle effect is the bubbling of the water. For example, let&amp;rsquo;s say our ghost eventually acquired some magical power that allows her to control water bubble, and even travel, fly in it. That might be a very fun experience won&amp;rsquo;t it?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gameplay</title>
+      <link>http://gdd.lnp.moe/leau/gameplay/base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/gameplay/base/</guid>
+      <description>
+
+&lt;h1 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h1&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;All in all, &lt;strong&gt;contents&lt;/strong&gt; matter. The more content placed at the right place that pique the interest of player, then regardless of who the player is, they will always want to explore the world. As there is something to explore, not just a long walk toward the end, where they already expect the end goal.&lt;/p&gt;
+
+&lt;p&gt;In the past, human was not aware of the bidirectional thought (i.e, you can show them a goal with 2 consequences, and they wouldn&amp;rsquo;t want to guess it). But now in a world where entertainment is so popular, human has soon adapted such that they understand how to interpret the event and the goal and they know what final choice they will have eventually. There is no ending that is too foreign to our player. To patch this, some choose to mislead the player, some choose to have non-binary goal, some choose to do some novel thing, and some try a combination of stuffs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The game is at heart an adventure, exploration game. There are several element that achieve this, and in order to avoid the dry feeling of repetitive that many adventure game does, which failed to capture the interest of the hyper audience we have today, there must be a combination of element within the adventure genre to craft a successful one. A plain one where player go from A to B will not work!&lt;/p&gt;
+
+&lt;p&gt;Traveling added with Spontaneous (with a chance of happening) events with funky random NPCs (that are contents which serve future purpose).&lt;/p&gt;
+
+&lt;p&gt;Background events, far away signal, the concept of using the environment as our HUD.&lt;/p&gt;
+
+&lt;p&gt;Actions with consequences and also lead the player toward foreign landmark.&lt;/p&gt;
+
+&lt;p&gt;Introducing out-of-norm culture and behaviors.&lt;/p&gt;
+
+&lt;aside class=&#34;admonition warning-a&#34;&gt;
+  &lt;p class=&#34;admonition-title&#34;&gt;L&amp;#39;eau is an adventure game&lt;/p&gt;
+  &lt;p&gt;that entertains and pique the player&amp;rsquo;s interest each and every seconds!&lt;/p&gt;
+&lt;/aside&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Objectives</title>
+      <link>http://gdd.lnp.moe/leau/gameplay/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/gameplay/objectives/</guid>
+      <description>
+
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+
+&lt;p&gt;To become a &lt;code&gt;water deity&lt;/code&gt;, the player main job is of course to deliver water to those who are needing it.&lt;/p&gt;
+
+&lt;p&gt;There are several type of Objectives in the game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Transporting water from place to place&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Going to landmark to get water&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Going back to where you was to give back the water&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Either stay there for the fun, or return for the objectives.&lt;/p&gt;
+
+&lt;p&gt;The game demonstrate the traveler dilemma. Would you return to your home land to give them the water (albeit the travel back), or would you keep on exploring the world ahead?&lt;/p&gt;
+
+&lt;p&gt;This  might sounds linear somewhat. We need a way to expand this such that the player doesn&amp;rsquo;t serve just a single village, but multiple of them.&lt;/p&gt;
+
+&lt;p&gt;The big question here is, given that the upcoming adventure will be mesmerizing and entertaining, will the player remember their original objective?&lt;/p&gt;
+
+&lt;p&gt;We must faintly make the original objective something the player might or might not remember.&lt;/p&gt;
+
+&lt;p&gt;The act of give and take creates an economy.&lt;/p&gt;
+
+&lt;p&gt;The act of asking to give and take creates generosity.&lt;/p&gt;
+
+&lt;p&gt;There will be some that you can give water to who do not request for it. Your job however, is to give them the water.&lt;/p&gt;
+
+&lt;p&gt;By promising bigger reward, and giving the player more visual entertainment, we can misled them into going with the flow and thus make them go forward, misguiding that this is an A to B game, but instead for any direction they go forward, they only experience part of the game.&lt;/p&gt;
+
+&lt;p&gt;The last economy?&lt;/p&gt;
+
+&lt;p&gt;How to show the player what they can possibly achieve?&lt;/p&gt;
+
+&lt;p&gt;There must be a way where player cross-path with their previous quest, where they would eventually learn that it would be &lt;code&gt;too late&lt;/code&gt; to do so!&lt;/p&gt;
+
+&lt;p&gt;The player are guided and given multiple choice to deliver water across this world, but everytime they get the water, more promise of more water on the land ahead, and further greed.&lt;/p&gt;
+
+&lt;p&gt;The player must make their choice to return and florish their previous.&lt;/p&gt;
+
+&lt;p&gt;The timeline for this must be catered such that it will be a trade-off. All being in this world has a timespan in days to live.&lt;/p&gt;
+
+&lt;p&gt;The timespan must be designed such that they player can revisit them eventually.&lt;/p&gt;
+
+&lt;p&gt;Path crossing between quests.&lt;/p&gt;
+
+&lt;p&gt;There must be more than 3 ways of choosing choice. Right now I can think of three way the player are designed to play this game. Let&amp;rsquo;s say they need to deliver water from B to A, and they started at A.&lt;/p&gt;
+
+&lt;p&gt;Now, when they came to B, the people at B says that there is more water at C, and they only have some water left. The water left is enough for travel back to A and flourish A, if they choose to do so. Or they can use half the water to go toward C.&lt;/p&gt;
+
+&lt;p&gt;This is somewhat illogical. But somehow, it does serve a certain purpose. Now given that the player decided to go back to A and help A, what happens to B and C?&lt;/p&gt;
+
+&lt;p&gt;The B landmark must have more reasoning or something demanding such that they misled player to go toward C instead for the water for both A and B.&lt;/p&gt;
+
+&lt;p&gt;Player are tricked to Stack their quest.&lt;/p&gt;
+
+&lt;p&gt;How many landmark will we have? Let&amp;rsquo;s say we have 9 landmarks.&lt;/p&gt;
+
+&lt;p&gt;Each move has a consequence, similar to a peg game.&lt;/p&gt;
+
+&lt;p&gt;Eventually they will go toward the Tropical land, where water run amok.&lt;/p&gt;
+
+&lt;p&gt;When will they cross path with A again given they chose to abandon it? (To show them the consequence).&lt;/p&gt;
+
+&lt;p&gt;The landmark A must be somewhat simple, but something that can immediately aid players&lt;/p&gt;
+
+&lt;p&gt;On the way, player can give water to creature such that they will let player &lt;code&gt;ride&lt;/code&gt; them for extra speed. There are two penalty when coming up with this:
+  * If player did not return to give the first Lama at A the water, then all Horse will have very low speed
+  * Or they will need to feed more water to the creature before they can ride them&lt;/p&gt;
+
+&lt;p&gt;Go to war for water?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>http://gdd.lnp.moe/leau/gameplay/challenges/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/gameplay/challenges/</guid>
+      <description>
+
+&lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
+
+&lt;p&gt;Choosing between goals and objectives and figuring out/remembering their benefit.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;As the story move on, there will be point where the player must choose between multiple objectives in order to maximize their current status and speed.&lt;/li&gt;
+&lt;li&gt;L&amp;rsquo;eau adopts the newgame+ strategy to allow for near endless playing loop, letting user try different way of play without losing too much progress.&lt;/li&gt;
+&lt;li&gt;Every events in the game cost a time unit, and the user consume the time unit by traveling or by sleeping over the time period.&lt;/li&gt;
+&lt;li&gt;Managing time&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Controls</title>
+      <link>http://gdd.lnp.moe/leau/gameplay/controls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/gameplay/controls/</guid>
+      <description>
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;p&gt;Movement Analog&lt;/p&gt;
+
+&lt;p&gt;Rotation Analog or L/R triggers&lt;/p&gt;
+
+&lt;p&gt;Accept/Action button&lt;/p&gt;
+
+&lt;p&gt;Cancel/Drop button&lt;/p&gt;
+
+&lt;p&gt;Info button&lt;/p&gt;
+
+&lt;p&gt;Jump button&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rewards</title>
+      <link>http://gdd.lnp.moe/leau/gameplay/rewards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/gameplay/rewards/</guid>
+      <description>
+
+&lt;h2 id=&#34;rewards&#34;&gt;Rewards&lt;/h2&gt;
+
+&lt;p&gt;Ability:
+  + Animal rider (by feeding water to enough animal of a certain type)
+  +&lt;/p&gt;
+
+&lt;p&gt;Events&lt;/p&gt;
+
+&lt;p&gt;Random Event Chance Increased&lt;/p&gt;
+
+&lt;p&gt;Story&lt;/p&gt;
+
+&lt;p&gt;Hidden routes&lt;/p&gt;
+
+&lt;p&gt;Point in relationship graphs&lt;/p&gt;
+
+&lt;p&gt;Water source and economy around the map&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technical</title>
+      <link>http://gdd.lnp.moe/leau/technical/base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/base/</guid>
+      <description>
+
+&lt;h1 id=&#34;technical&#34;&gt;Technical&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>http://gdd.lnp.moe/leau/technical/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/ai/</guid>
+      <description>
+
+&lt;h2 id=&#34;ai&#34;&gt;AI&lt;/h2&gt;
+
+&lt;p&gt;The AI in the game serves mainly as a way to record pre-made play session, and replay it with new player. With this approach, the game can generate human-like AIs that does their job just like human. The way to do it is just record their input sequence and store it minimally per scene.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Controls</title>
+      <link>http://gdd.lnp.moe/leau/technical/controls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/controls/</guid>
+      <description>
+
+&lt;h2 id=&#34;conversation-with-npc-and-other-players&#34;&gt;Conversation with NPC and other players&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/HUD/conversationInit.png&#34; alt=&#34;Init a Conversation&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Player are able to strike a conversation with other if there is an indicator of willingness to have a conversation. This does not mimic the real world behavior of conversation in anyway, but it serves the purpose of the gameplay alright.&lt;/p&gt;
+
+&lt;p&gt;This consent method allowing player to chat with the other player as well.&lt;/p&gt;
+
+&lt;p&gt;Upon initiate a chat, if the other person is a real player, user will be able to initiate:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Platform&lt;/th&gt;
+&lt;th&gt;Method of Communication&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mobile&lt;/td&gt;
+&lt;td&gt;Chat or voice&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Console&lt;/td&gt;
+&lt;td&gt;Voice&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;PC&lt;/td&gt;
+&lt;td&gt;Chat or Voice&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/HUD/conversationComicBubble.png&#34; alt=&#34;A sample Conversation&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The conversation will be a one-to-one instead of real-time communication. This allows the conversation to be comprehensible, and to force player to craft their message to deliver well.&lt;/p&gt;
+
+&lt;p&gt;I.e, with chat, once player A has sent a chat, she will need to wait for the other to reply before she can send them another chat.&lt;/p&gt;
+
+&lt;p&gt;There are other in-game method of communication that are more action-based.&lt;/p&gt;
+
+&lt;p&gt;I wonder about this chat system, as it complicates matter. What if we just let user interact and have them speak with each other through an emoji like system?&lt;/p&gt;
+
+&lt;p&gt;That way, the bubble will show only Emoji, and they can send the message whenever, just like in &lt;code&gt;Journey&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The bigger conversation is for the NPC, and this still need some consideration. As an artful story must refrain from using more word than necessary, and instead let the art do its job.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical-rsses on l&#39;eau&#39;s gdd</title>
+    <link>http://gdd.lnp.moe/leau/technical/index.xml</link>
+    <description>Recent content in Technical-rsses on l&#39;eau&#39;s gdd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://gdd.lnp.moe/leau/technical/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Abstract/Base classes</title>
+      <link>http://gdd.lnp.moe/leau/technical/development/abstract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/development/abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derived Classes</title>
+      <link>http://gdd.lnp.moe/leau/technical/development/derived/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/development/derived/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical</title>
+      <link>http://gdd.lnp.moe/leau/technical/base/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/base/</guid>
+      <description>
+
+&lt;h1 id=&#34;technical&#34;&gt;Technical&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>http://gdd.lnp.moe/leau/technical/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/ai/</guid>
+      <description>
+
+&lt;h2 id=&#34;ai&#34;&gt;AI&lt;/h2&gt;
+
+&lt;p&gt;The AI in the game serves mainly as a way to record pre-made play session, and replay it with new player. With this approach, the game can generate human-like AIs that does their job just like human. The way to do it is just record their input sequence and store it minimally per scene.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Controls</title>
+      <link>http://gdd.lnp.moe/leau/technical/controls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/controls/</guid>
+      <description>
+
+&lt;h2 id=&#34;conversation-with-npc-and-other-players&#34;&gt;Conversation with NPC and other players&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/HUD/conversationInit.png&#34; alt=&#34;Init a Conversation&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Player are able to strike a conversation with other if there is an indicator of willingness to have a conversation. This does not mimic the real world behavior of conversation in anyway, but it serves the purpose of the gameplay alright.&lt;/p&gt;
+
+&lt;p&gt;This consent method allowing player to chat with the other player as well.&lt;/p&gt;
+
+&lt;p&gt;Upon initiate a chat, if the other person is a real player, user will be able to initiate:&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Platform&lt;/th&gt;
+&lt;th&gt;Method of Communication&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Mobile&lt;/td&gt;
+&lt;td&gt;Chat or voice&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Console&lt;/td&gt;
+&lt;td&gt;Voice&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;PC&lt;/td&gt;
+&lt;td&gt;Chat or Voice&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/HUD/conversationComicBubble.png&#34; alt=&#34;A sample Conversation&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The conversation will be a one-to-one instead of real-time communication. This allows the conversation to be comprehensible, and to force player to craft their message to deliver well.&lt;/p&gt;
+
+&lt;p&gt;I.e, with chat, once player A has sent a chat, she will need to wait for the other to reply before she can send them another chat.&lt;/p&gt;
+
+&lt;p&gt;There are other in-game method of communication that are more action-based.&lt;/p&gt;
+
+&lt;p&gt;I wonder about this chat system, as it complicates matter. What if we just let user interact and have them speak with each other through an emoji like system?&lt;/p&gt;
+
+&lt;p&gt;That way, the bubble will show only Emoji, and they can send the message whenever, just like in &lt;code&gt;Journey&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The bigger conversation is for the NPC, and this still need some consideration. As an artful story must refrain from using more word than necessary, and instead let the art do its job.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upgrades</title>
+      <link>http://gdd.lnp.moe/leau/technical/upgrades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/upgrades/</guid>
+      <description>
+
+&lt;h2 id=&#34;upgrades&#34;&gt;Upgrades&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;L&amp;rsquo;eau&lt;/strong&gt; upgrades portrait an economy of water exchange and how it works. These upgrades increase travel speed as well as stamina of the player. Mainly, these upgrades should be treated as helper instead. The game does not depend on these upgrades. These were introduced just for educational and relational purpose. A game without familiar element will seem foreign.&lt;/p&gt;
+
+&lt;h3 id=&#34;basic-upgrade&#34;&gt;Basic upgrade&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/upgrades/waterPouch.png&#34; height=&#34;180px&#34;&gt;
+&lt;img src=&#34;images/upgrades/bottleGourd.png&#34; height=&#34;180px&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These upgrade dealt mainly with small amount of water. It is similar to a pointer in &lt;code&gt;cookie clicker&lt;/code&gt;. Eventually, the player should be able to control an army of &amp;ldquo;ghost&amp;rdquo; that would carry water around the world. This is questionable, as we want to make this into an adventure/exploration game. Maybe the main character can spawn as he goes.&lt;/p&gt;
+
+&lt;p&gt;The update benefits mainly the controllable character. It does not influence the betterment of the economy.&lt;/p&gt;
+
+&lt;h3 id=&#34;labor-upgrade&#34;&gt;Labor upgrade&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/upgrades/woodenBucket.png&#34; height=&#34;180px&#34;&gt;
+&lt;img src=&#34;images/upgrades/fancyBucket.png&#34; height=&#34;180px&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These upgrade dealt with the volume of water player can hold while travel. The bucket evaporates, but is good when used within the tropical land.&lt;/p&gt;
+
+&lt;h3 id=&#34;mechanic-upgrade&#34;&gt;Mechanic upgrade&lt;/h3&gt;
+
+&lt;p&gt;These upgrade is approaching automation of water transportation. The improvement from labor is that it increase travel speed.&lt;/p&gt;
+
+&lt;h3 id=&#34;facility-upgrade&#34;&gt;Facility upgrade&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/upgrades/well.png&#34; height=&#34;180px&#34;&gt;
+&lt;img src=&#34;images/upgrades/waterTreatmentMachine.png&#34; height=&#34;180px&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;These upgrade automate the whole process of water transportation. There is environmental cost however.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HUD</title>
+      <link>http://gdd.lnp.moe/leau/technical/hud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/hud/</guid>
+      <description>
+
+&lt;h2 id=&#34;hud&#34;&gt;HUD&lt;/h2&gt;
+
+&lt;!-- &gt; ![HUD and Map](images/HUD/hudAndMap0.png) --&gt;
+
+&lt;h3 id=&#34;star-constellation-as-direction-compass&#34;&gt;Star constellation as Direction Compass&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/HUD/constellationCompass.png&#34; alt=&#34;Map&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are two way to implement this feature, one is to mimic the real world&amp;rsquo;s stars and constellation so it acts like a compass.&lt;/p&gt;
+
+&lt;p&gt;Another is to have the player a special character that can move the stars such that they forms human-readable guides and pointers.&lt;/p&gt;
+
+&lt;p&gt;A problem with this mechanic is that the player will have to wait until night fall for the compass to show up. This is not too terrible if the user can rest whenever they want and sleep until night to see the compass. This way, several gameplay mechanic and timer can utilize this mechanic to challenge the player in one way or another.&lt;/p&gt;
+
+&lt;p&gt;The passing of day and night quickly could become quite fun in many case.&lt;/p&gt;
+
+&lt;p&gt;There should be alternative method in the morning.&lt;/p&gt;
+
+&lt;h3 id=&#34;adventure-game-view&#34;&gt;Adventure Game View&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;images/HUD/viewAndHud.png&#34; alt=&#34;Map&#34; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The view should be more focus on the adventure, landscape and so forth instead of the HUD itself. Thus blending the HUD into the environment might be a novel approach.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scenes</title>
+      <link>http://gdd.lnp.moe/leau/technical/scenes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gdd.lnp.moe/leau/technical/scenes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
