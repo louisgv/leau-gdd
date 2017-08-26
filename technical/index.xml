@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical-rsses on l&#39;eau&#39;s gdd</title>
-    <link>http://gdd.lnp.moe/leau/technical/index.xml</link>
+    <link>https://louisgv.github.io/leau.doc/technical/index.xml</link>
     <description>Recent content in Technical-rsses on l&#39;eau&#39;s gdd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://gdd.lnp.moe/leau/technical/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://louisgv.github.io/leau.doc/technical/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Abstract/Base classes</title>
-      <link>http://gdd.lnp.moe/leau/technical/development/abstract/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/development/abstract/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/development/abstract/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/development/abstract/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derived Classes</title>
-      <link>http://gdd.lnp.moe/leau/technical/development/derived/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/development/derived/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/development/derived/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/development/derived/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical</title>
-      <link>http://gdd.lnp.moe/leau/technical/base/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/base/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/base/</guid>
       <description>
 
 &lt;h1 id=&#34;technical&#34;&gt;Technical&lt;/h1&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>AI</title>
-      <link>http://gdd.lnp.moe/leau/technical/ai/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/ai/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/ai/</guid>
       <description>
 
 &lt;h2 id=&#34;ai&#34;&gt;AI&lt;/h2&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>Controls</title>
-      <link>http://gdd.lnp.moe/leau/technical/controls/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/controls/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/controls/</guid>
       <description>
 
 &lt;h2 id=&#34;conversation-with-npc-and-other-players&#34;&gt;Conversation with NPC and other players&lt;/h2&gt;
@@ -118,10 +118,10 @@
     
     <item>
       <title>Upgrades</title>
-      <link>http://gdd.lnp.moe/leau/technical/upgrades/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/upgrades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/upgrades/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/upgrades/</guid>
       <description>
 
 &lt;h2 id=&#34;upgrades&#34;&gt;Upgrades&lt;/h2&gt;
@@ -165,10 +165,10 @@
     
     <item>
       <title>HUD</title>
-      <link>http://gdd.lnp.moe/leau/technical/hud/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/hud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/hud/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/hud/</guid>
       <description>
 
 &lt;h2 id=&#34;hud&#34;&gt;HUD&lt;/h2&gt;
@@ -203,10 +203,10 @@
     
     <item>
       <title>Scenes</title>
-      <link>http://gdd.lnp.moe/leau/technical/scenes/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/scenes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/scenes/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/scenes/</guid>
       <description></description>
     </item>
     

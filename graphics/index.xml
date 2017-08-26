@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graphics-rsses on l&#39;eau&#39;s gdd</title>
-    <link>http://gdd.lnp.moe/leau/graphics/index.xml</link>
+    <link>https://louisgv.github.io/leau.doc/graphics/index.xml</link>
     <description>Recent content in Graphics-rsses on l&#39;eau&#39;s gdd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://gdd.lnp.moe/leau/graphics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://louisgv.github.io/leau.doc/graphics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Concept</title>
-      <link>http://gdd.lnp.moe/leau/graphics/base/</link>
+      <link>https://louisgv.github.io/leau.doc/graphics/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/graphics/base/</guid>
+      <guid>https://louisgv.github.io/leau.doc/graphics/base/</guid>
       <description>
 
 &lt;h1 id=&#34;graphics&#34;&gt;Graphics&lt;/h1&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>Player</title>
-      <link>http://gdd.lnp.moe/leau/graphics/player/</link>
+      <link>https://louisgv.github.io/leau.doc/graphics/player/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/graphics/player/</guid>
+      <guid>https://louisgv.github.io/leau.doc/graphics/player/</guid>
       <description>
 
 &lt;h2 id=&#34;player&#34;&gt;Player&lt;/h2&gt;
@@ -46,10 +46,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Particle Effect</title>
-      <link>http://gdd.lnp.moe/leau/graphics/particleEffect/</link>
+      <link>https://louisgv.github.io/leau.doc/graphics/particleEffect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/graphics/particleEffect/</guid>
+      <guid>https://louisgv.github.io/leau.doc/graphics/particleEffect/</guid>
       <description>
 
 &lt;h2 id=&#34;particle-effect&#34;&gt;Particle Effect&lt;/h2&gt;

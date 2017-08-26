@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sounds-rsses on l&#39;eau&#39;s gdd</title>
-    <link>http://gdd.lnp.moe/leau/sounds/index.xml</link>
+    <link>https://louisgv.github.io/leau.doc/sounds/index.xml</link>
     <description>Recent content in Sounds-rsses on l&#39;eau&#39;s gdd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://gdd.lnp.moe/leau/sounds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://louisgv.github.io/leau.doc/sounds/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sounds</title>
-      <link>http://gdd.lnp.moe/leau/sounds/base/</link>
+      <link>https://louisgv.github.io/leau.doc/sounds/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/sounds/base/</guid>
+      <guid>https://louisgv.github.io/leau.doc/sounds/base/</guid>
       <description>
 
 &lt;h1 id=&#34;sounds&#34;&gt;Sounds&lt;/h1&gt;

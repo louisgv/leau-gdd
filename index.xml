@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>l&#39;eau&#39;s gdd</title>
-    <link>http://gdd.lnp.moe/leau/index.xml</link>
+    <link>https://louisgv.github.io/leau.doc/index.xml</link>
     <description>Recent content on l&#39;eau&#39;s gdd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://gdd.lnp.moe/leau/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://louisgv.github.io/leau.doc/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Concept</title>
-      <link>http://gdd.lnp.moe/leau/concept/base/</link>
+      <link>https://louisgv.github.io/leau.doc/concept/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/concept/base/</guid>
+      <guid>https://louisgv.github.io/leau.doc/concept/base/</guid>
       <description>
 
 &lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title>Concept</title>
-      <link>http://gdd.lnp.moe/leau/concept/target-audience/</link>
+      <link>https://louisgv.github.io/leau.doc/concept/target-audience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/concept/target-audience/</guid>
+      <guid>https://louisgv.github.io/leau.doc/concept/target-audience/</guid>
       <description>
 
 &lt;h2 id=&#34;target-audience&#34;&gt;Target Audience&lt;/h2&gt;
@@ -62,28 +62,28 @@
     
     <item>
       <title>Abstract/Base classes</title>
-      <link>http://gdd.lnp.moe/leau/technical/development/abstract/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/development/abstract/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/development/abstract/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/development/abstract/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derived Classes</title>
-      <link>http://gdd.lnp.moe/leau/technical/development/derived/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/development/derived/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/development/derived/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/development/derived/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concept</title>
-      <link>http://gdd.lnp.moe/leau/graphics/base/</link>
+      <link>https://louisgv.github.io/leau.doc/graphics/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/graphics/base/</guid>
+      <guid>https://louisgv.github.io/leau.doc/graphics/base/</guid>
       <description>
 
 &lt;h1 id=&#34;graphics&#34;&gt;Graphics&lt;/h1&gt;
@@ -92,10 +92,10 @@
     
     <item>
       <title>Player</title>
-      <link>http://gdd.lnp.moe/leau/graphics/player/</link>
+      <link>https://louisgv.github.io/leau.doc/graphics/player/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/graphics/player/</guid>
+      <guid>https://louisgv.github.io/leau.doc/graphics/player/</guid>
       <description>
 
 &lt;h2 id=&#34;player&#34;&gt;Player&lt;/h2&gt;
@@ -116,10 +116,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Particle Effect</title>
-      <link>http://gdd.lnp.moe/leau/graphics/particleEffect/</link>
+      <link>https://louisgv.github.io/leau.doc/graphics/particleEffect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/graphics/particleEffect/</guid>
+      <guid>https://louisgv.github.io/leau.doc/graphics/particleEffect/</guid>
       <description>
 
 &lt;h2 id=&#34;particle-effect&#34;&gt;Particle Effect&lt;/h2&gt;
@@ -136,10 +136,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Gameplay</title>
-      <link>http://gdd.lnp.moe/leau/gameplay/base/</link>
+      <link>https://louisgv.github.io/leau.doc/gameplay/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/gameplay/base/</guid>
+      <guid>https://louisgv.github.io/leau.doc/gameplay/base/</guid>
       <description>
 
 &lt;h1 id=&#34;gameplay&#34;&gt;Gameplay&lt;/h1&gt;
@@ -170,10 +170,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Objectives</title>
-      <link>http://gdd.lnp.moe/leau/gameplay/objectives/</link>
+      <link>https://louisgv.github.io/leau.doc/gameplay/objectives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/gameplay/objectives/</guid>
+      <guid>https://louisgv.github.io/leau.doc/gameplay/objectives/</guid>
       <description>
 
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
@@ -254,10 +254,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Challenges</title>
-      <link>http://gdd.lnp.moe/leau/gameplay/challenges/</link>
+      <link>https://louisgv.github.io/leau.doc/gameplay/challenges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/gameplay/challenges/</guid>
+      <guid>https://louisgv.github.io/leau.doc/gameplay/challenges/</guid>
       <description>
 
 &lt;h2 id=&#34;challenges&#34;&gt;Challenges&lt;/h2&gt;
@@ -275,10 +275,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Controls</title>
-      <link>http://gdd.lnp.moe/leau/gameplay/controls/</link>
+      <link>https://louisgv.github.io/leau.doc/gameplay/controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/gameplay/controls/</guid>
+      <guid>https://louisgv.github.io/leau.doc/gameplay/controls/</guid>
       <description>
 
 &lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
@@ -299,10 +299,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Rewards</title>
-      <link>http://gdd.lnp.moe/leau/gameplay/rewards/</link>
+      <link>https://louisgv.github.io/leau.doc/gameplay/rewards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/gameplay/rewards/</guid>
+      <guid>https://louisgv.github.io/leau.doc/gameplay/rewards/</guid>
       <description>
 
 &lt;h2 id=&#34;rewards&#34;&gt;Rewards&lt;/h2&gt;
@@ -327,10 +327,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Technical</title>
-      <link>http://gdd.lnp.moe/leau/technical/base/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/base/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/base/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/base/</guid>
       <description>
 
 &lt;h1 id=&#34;technical&#34;&gt;Technical&lt;/h1&gt;
@@ -339,10 +339,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>AI</title>
-      <link>http://gdd.lnp.moe/leau/technical/ai/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/ai/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/ai/</guid>
       <description>
 
 &lt;h2 id=&#34;ai&#34;&gt;AI&lt;/h2&gt;
@@ -353,10 +353,10 @@ These designs were inspired by an anime from Japan Anime Expo (Obake-chan), lite
     
     <item>
       <title>Controls</title>
-      <link>http://gdd.lnp.moe/leau/technical/controls/</link>
+      <link>https://louisgv.github.io/leau.doc/technical/controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/technical/controls/</guid>
+      <guid>https://louisgv.github.io/leau.doc/technical/controls/</guid>
       <description>
 
 &lt;h2 id=&#34;conversation-with-npc-and-other-players&#34;&gt;Conversation with NPC and other players&lt;/h2&gt;

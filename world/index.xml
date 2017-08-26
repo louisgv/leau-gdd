@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>World-rsses on l&#39;eau&#39;s gdd</title>
-    <link>http://gdd.lnp.moe/leau/world/index.xml</link>
+    <link>https://louisgv.github.io/leau.doc/world/index.xml</link>
     <description>Recent content in World-rsses on l&#39;eau&#39;s gdd</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://gdd.lnp.moe/leau/world/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://louisgv.github.io/leau.doc/world/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The universe</title>
-      <link>http://gdd.lnp.moe/leau/world/universe/</link>
+      <link>https://louisgv.github.io/leau.doc/world/universe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/world/universe/</guid>
+      <guid>https://louisgv.github.io/leau.doc/world/universe/</guid>
       <description>
 
 &lt;h1 id=&#34;world-design&#34;&gt;World Design&lt;/h1&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>Tropical</title>
-      <link>http://gdd.lnp.moe/leau/world/tropical-tripes/</link>
+      <link>https://louisgv.github.io/leau.doc/world/tropical-tripes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/world/tropical-tripes/</guid>
+      <guid>https://louisgv.github.io/leau.doc/world/tropical-tripes/</guid>
       <description>
 
 &lt;h2 id=&#34;tropical&#34;&gt;Tropical&lt;/h2&gt;
@@ -59,10 +59,10 @@ Dance&lt;/p&gt;
     
     <item>
       <title>Parody Elements</title>
-      <link>http://gdd.lnp.moe/leau/world/parody/</link>
+      <link>https://louisgv.github.io/leau.doc/world/parody/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gdd.lnp.moe/leau/world/parody/</guid>
+      <guid>https://louisgv.github.io/leau.doc/world/parody/</guid>
       <description>
 
 &lt;h1 id=&#34;parody-elements&#34;&gt;Parody Elements&lt;/h1&gt;
